@@ -1,0 +1,8 @@
+{
+	"name": "werk21/reserve_vendor_prefix",
+	"type": "metapackage",
+	"description": "Meta package to reserve werk21 vendor prefix.",
+	"require": {
+		"php": ">=7.4"
+	}
+}
